@@ -1,5 +1,5 @@
 # LCD_DISPLAY
-This is Project to Display a string on LCD_Display. 
+The aim of this project is to display a string on LCD_Display. 
 
 
 
